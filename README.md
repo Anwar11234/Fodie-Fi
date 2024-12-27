@@ -1,4 +1,4 @@
-# SQL Case Study - Danny's Diner
+# SQL Case Study - Fodie-Fi
 
 Week three of 8 weeks SQL challenge, [Case study link](https://8weeksqlchallenge.com/case-study-3/)
 ## Problem Statement
