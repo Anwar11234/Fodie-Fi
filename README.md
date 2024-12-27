@@ -1,6 +1,6 @@
 # SQL Case Study - Danny's Diner
 
-Week one of 8 weeks SQL challenge, [Case study link](https://8weeksqlchallenge.com/case-study-3/)
+Week three of 8 weeks SQL challenge, [Case study link](https://8weeksqlchallenge.com/case-study-3/)
 ## Problem Statement
 Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
 
